@@ -1,0 +1,8 @@
+BoundedServo	KEYWORD1
+setBounds	KEYWORD2
+getMax	KEYWORD2
+getMin	KEYWORD2
+getPosition	KEYWORD2
+move	KEYWORD2
+set	KEYWORD2
+attach	KEYWORD2
